@@ -75,8 +75,8 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _eyeX: 0.70000005
-    - _eyeY: 0.6
+    - _eyeX: 0.526
+    - _eyeY: 0.513
     - _iResolutionX: 1024
     - _iResolutionY: 1024
     - _scaleRatio: 1.6

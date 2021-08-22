@@ -30,8 +30,8 @@ public class main : MonoBehaviour {
     void Start () {
         sigma = 1.6f;
         alpha = 4.0f;
-        eyeX = 0.5f;
-        eyeY = 0.5f;
+        eyeX = 0.526f;
+        eyeY = 0.513f;
         iApplyLogMap1 = 1;
         iApplyLogMap2 = 1;
     }

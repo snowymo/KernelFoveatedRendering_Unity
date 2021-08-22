@@ -118,9 +118,9 @@
 				float2 uv = (_iApplyLogMap2 > 0) ? newCoord : i.uv;
 				float4 col = cuttingLineBlur(_LogTex, uv, _scaleRatio);
 				fixed4 newColor;
-				if (length(i.uv - float2(_eyeX, _eyeY)) < 0.003)
-					newColor = float4(1.0, 0.0, 0.0, 0.0);
-				else
+				//if (length(i.uv - float2(_eyeX, _eyeY)) < 0.003)
+					//newColor = float4(1.0, 0.0, 0.0, 0.0);
+				//else
 					newColor = col;
 				return newColor;
 			}

@@ -75,14 +75,14 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _eyeX: 0.70000005
-    - _eyeY: 0.6
+    - _eyeX: 0.526
+    - _eyeY: 0.513
     - _iApplyLogMap1: 1
     - _iApplyLogMap2: 1
     - _iResolutionX: 1024
     - _iResolutionY: 1024
     - _kernel: 4
-    - _scaleRatio: 1.5999997
+    - _scaleRatio: 1.6
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
